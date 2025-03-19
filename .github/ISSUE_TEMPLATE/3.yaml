@@ -25,7 +25,7 @@ body:
     attributes:
       label: More Stuff?
       description: More Stuff to fill in?
-      value: "More stuff"
+      value: "Choose one from [here](https://google.github.io/styleguide/pyguide.html)"
     validations:
       required: true
 
