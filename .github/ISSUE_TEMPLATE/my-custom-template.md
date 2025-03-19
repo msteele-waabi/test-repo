@@ -1,8 +1,8 @@
 ---
 name: My custom template
 about: This is a test custom template
-title: ''
-labels: ''
+title: "[TEST ISSUE] <Describe issue here>"
+labels: need this label
 assignees: ''
 
 ---
