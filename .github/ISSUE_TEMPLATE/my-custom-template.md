@@ -4,6 +4,7 @@ about: This is a test custom template
 title: "[TEST ISSUE] <Describe issue here>"
 labels: need this label
 assignees: ''
+projects: ['Test the Best project']
 
 ---
 
