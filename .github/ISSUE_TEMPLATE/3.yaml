@@ -1,7 +1,7 @@
 name: "[Special Team] My custom template8"
 description: This is a test custom template
 title: "[Bug]: "
-labels: ["need this label"]
+labels: ["another label ⛏️ "]
 projects: ["msteele-waabi/1"] # Note, this is "Test the best Project"
 assignees: []
 body:
