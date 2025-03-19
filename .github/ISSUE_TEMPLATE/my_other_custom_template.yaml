@@ -3,7 +3,7 @@ description: This is a test custom template
 title: "[Bug]: "
 labels: ["need this label"]
 projects: ["Test the Best project"]
-assignees:
+assignees: []
 body:
   - type: markdown
     attributes:
