@@ -2,7 +2,7 @@ name: My custom template2
 description: This is a test custom template
 title: "[Bug]: "
 labels: ["need this label"]
-projects: ["Test the Best project"]
+projects: ["msteele-waabi/1"]
 assignees: []
 body:
   - type: markdown
